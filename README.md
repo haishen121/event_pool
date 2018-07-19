@@ -1,2 +1,2 @@
-# event_pool
+# event pool
 linuxfd (eventfd/timerfd...)
